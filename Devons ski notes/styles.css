@@ -1,0 +1,21 @@
+body{
+    background-color: #94B49F;
+    text-align: center;
+}
+
+hr {
+    border-style: double;
+    height: 2px;
+    width: 45%;
+    background-color: rgb(105, 102, 102);
+}
+
+h1{
+    text-align:center;
+    color: rgb(54, 8, 17);
+}
+
+table{
+   margin-left: auto;
+   margin-right: auto;
+}
